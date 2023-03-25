@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+	<a href="https://github.com/gustavohaj">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohaj&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohaj&layout=compact&langs_count=16&graywhite" />
+	</a>
+</div>
+
+<hr>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandagoncalveslima/)](https://www.linkedin.com/in/fernandagoncalveslima)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fernanda.g.lima@gmail.com)](mailto:fernanda.g.lima)
+
+
+:pray: Thanks for visiting.
+
+:call_me_hand: Enjoy it!!
+
