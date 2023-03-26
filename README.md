@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 
 <hr>
 
-![fegolim's Stats](https://github-readme-stats.vercel.app/api?username=fegolim&theme=nightowl&show_icons=true&hide_border=false&count_private=false)
+![fegolim's Stats](https://github-readme-stats.vercel.app/api?username=fegolim&theme=nightowl&show_icons=true&hide_border=false&count_private=true&count_public=true)
 ![fegolim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fegolim&theme=nightowl&hide_border=false)
 
+![fegolim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fegolim&langs_count=10&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
-![fegolim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fegolim&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 <hr>
 
 ### Bye 💤😴
+
