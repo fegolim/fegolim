@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 💤😴
 
 <!--
 **fegolim/fegolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,20 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-	<a href="https://github.com/fegolim">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fegolim&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegolim&layout=compact&langs_count=16&graywhite" />
-	</a>
-</div>
+
 
 <hr>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandagoncalveslima/)](https://www.linkedin.com/in/fernandagoncalveslima)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fernanda.g.lima@gmail.com)](mailto:fernanda.g.lima)
+<hr>
 
-
-:pray: Thanks for visiting.
-
-:call_me_hand: Enjoy it!!
+![fegolim's Stats](https://github-readme-stats.vercel.app/api?username=fegolim&theme=nightowl&show_icons=true&hide_border=false&count_private=false)
+![fegolim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fegolim&theme=nightowl&hide_border=false)
+![fegolim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fegolim&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+<hr>
 
