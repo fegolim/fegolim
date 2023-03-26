@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fegolim/)](https://www.linkedin.com/in/fegolim)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fernanda.g.lima@gmail.com)](mailto:fernanda.g.lima@gmail.com)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whitee&link=https://medium.com/@fernandagonalvesdelima/)](https://medium.com/@fernandagonalvesdelima)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandagoncalveslima/)](https://www.linkedin.com/in/fernandagoncalveslima)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fernanda.g.lima@gmail.com)](mailto:fernanda.g.lima@gmail.com)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whitee&link=https://medium.com/@fernandagonalvesdelima/)](https://medium.com/@fernandagonalvesdelima)
 
 <hr>
 
